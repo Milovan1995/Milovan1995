@@ -6,7 +6,7 @@ I'm a passionate learner and a web developer from Podgorica, Montenegro. With a 
 
 - 🚀 Currently enrolled at Logate, a programming academy in Podgorica, Montenegro.
 - 🌐 Web technologies enthusiast, with experience in HTML, CSS, JavaScript, React, and now learning Angular and TypeScript.
-- 📜 Proud recipient of a Udemy certificate for Full Stack Web Development from App Brewery.
+- 📜 Proud recipient of a Udemy certificate for Full Stack Web Development from App Brewery - Angela Yu.
 - 🔍 I have a deep appreciation for the logical problem-solving aspect of programming, and I enjoy the challenges it presents.
 
 ## Projects
