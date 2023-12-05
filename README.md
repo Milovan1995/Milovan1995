@@ -5,7 +5,7 @@ I'm a passionate learner and a web developer from Podgorica, Montenegro. With a 
 ## About Me
 
 - 🚀 Currently enrolled at Logate, a programming academy in Podgorica, Montenegro.
-- 🌐 Web technologies enthusiast, with experience in HTML, CSS, JavaScript, React, Node and now learning Angular, TypeScript, SQL (MySQL).
+- 🌐 Web technologies enthusiast, with experience in HTML, CSS, JavaScript, React, Node and now learning Angular, TypeScript, SQL
 - 📜 Proud recipient of a Udemy certificate for Full Stack Web Development from App Brewery - London, UK.
 - 🔍 I have a deep appreciation for the logical problem-solving aspect of programming, and I enjoy the challenges it presents.
 
