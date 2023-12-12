@@ -6,6 +6,7 @@ I'm a passionate learner and a web developer from Podgorica, Montenegro. With a 
 
 - 🚀 Currently enrolled in the Web Development course at Logate, a programming academy in Podgorica, Montenegro.
 - 🌐 Web technologies enthusiast, with experience in:
+  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
