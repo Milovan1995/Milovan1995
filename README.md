@@ -27,7 +27,7 @@ I'm a passionate learner and a web developer from Podgorica, Montenegro. With a 
 
 ## Projects
 
-I'm currently working on frontend part (while still adapting the backend/db code) for an exciting project called "Capital Cities Quiz Game." This interactive quiz game is designed to test your knowledge of capital cities from around the world. While the project is still a work in progress, I'm dedicated to bringing this educational and fun experience to life. Stay tuned for updates on its development journey!
+I'm currently working on both the backend and frontend for an exciting project called "Capital Cities Quiz Game." This interactive quiz game is designed to test your knowledge of capital cities from around the world. While the project is still a work in progress, I'm dedicated to bringing this educational and fun experience to life. Stay tuned for updates on its development journey!
 
 ## Development Philosophy
 
