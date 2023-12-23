@@ -1,4 +1,4 @@
-# Hello, I'm Milovan Antić or  @Milovan1995 👋
+# Hello, I'm Milovan Antić 👋
 
 I'm a passionate learner and a web developer from Podgorica, Montenegro. With a background in mechanical engineering, I decided to switch gears and dive into the world of programming in january 2023. My journey began with a strong focus on front-end development, but I also have worked on some full stack projects.
 
