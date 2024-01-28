@@ -1,6 +1,6 @@
 # Hello, I'm Milovan Antić 👋
 
-I'm a passionate learner and a web developer from Podgorica, Montenegro. With a background in mechanical engineering, I decided to switch gears and dive into the world of programming in January 2023. My journey began with a strong focus on front-end development, but I also have worked on some full-stack projects.
+I'm a passionate learner and a web developer from Podgorica, Montenegro. With a background in mechanical engineering, I decided to switch to programming in January 2023. My journey began with a strong focus on front-end development, but I also have worked on some full-stack projects.
 
 ## About Me
 
@@ -35,11 +35,11 @@ I firmly believe that consistent effort and perseverance are key to personal dev
 
 ## Interests
 
-When I'm not coding, I cherish quality time spent with family and friends. I also enjoy solitude, whether it's going for long walks or diving into a good book.
+When I'm not coding, I cherish quality time spent with family and friends.
 
 ## Connect with Me
 
-Let's connect, collaborate, and learn together. Feel free to explore my repositories, and let's build amazing things together!
+Let's connect, collaborate, and work together.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milovan-antic/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milovan.antic314@gmail.com)
