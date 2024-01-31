@@ -1,4 +1,4 @@
-# Hello, I'm Milovan Antić 👋
+# Hi there, my name is Milovan
 
 I'm a web developer from Podgorica, Montenegro. With a background in mechanical engineering, I decided to switch to programming.
 
