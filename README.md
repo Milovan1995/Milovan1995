@@ -2,10 +2,9 @@
 
 I'm a web developer from Podgorica, Montenegro. With a background in mechanical engineering, I decided to switch to programming.
 
-## About Me
+## Technologies
 
-- 🚀 Currently enrolled in the Web Development course at Logate, a programming academy in Podgorica, Montenegro.
-- 🌐 Web technologies enthusiast, with experience in:
+- 🌐 Proficient in:
 
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.example.com)
   [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.example.com)
@@ -22,25 +21,11 @@ I'm a web developer from Podgorica, Montenegro. With a background in mechanical 
   [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://www.example.com)
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.example.com)
   [![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://www.example.com)
-- 📜 Proud recipient of a Udemy certificate for Full Stack Web Development from App Brewery - London, UK.
-- 🔍 I have a deep appreciation for the logical problem-solving aspect of programming, and I enjoy the challenges it presents.
-
-## Projects
-
-I'm currently working on both back-end and front-end for an exciting project called "Capital Cities Quiz Game." This interactive quiz game is designed to test your knowledge of capital cities from around the world. While the project is still a work in progress, I'm dedicated to bringing this educational and fun experience to life. Stay tuned for updates!
-
-## Development Philosophy
-
-I firmly believe that consistent effort and perseverance are key to personal development, especially in the fast-paced world of programming. I approach projects with a well-thought-out plan, but I'm also adaptable and ready to find solutions on the fly.
-
-## Interests
-
-When I'm not coding, I cherish quality time spent with family and friends.
+  
 
 ## Connect with Me
 
-Let's connect, collaborate, and work together.
+Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milovan-antic/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:milovan.antic314@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/antic.milovan/)
