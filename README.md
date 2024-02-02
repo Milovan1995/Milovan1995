@@ -1,4 +1,4 @@
-# Hi there, my name is Milovan
+# Hi there!
 
 I'm a web developer from Podgorica, Montenegro.
 
