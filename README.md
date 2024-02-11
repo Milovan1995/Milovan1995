@@ -1,6 +1,6 @@
-# Hi there!
+# Hello!
 
-I'm a front-end developer at Logate d.o.o. in Podgorica, Montenegro
+I'm a front-end developer from Podgorica, Montenegro.
 
 ## Technologies
 
