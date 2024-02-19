@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a front-end developer from Podgorica, Montenegro.
+I'm a software developer from Podgorica, Montenegro. Currently working as a front-end developer
 
 ## Technologies
 
