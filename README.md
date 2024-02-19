@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a software developer from Podgorica, Montenegro. Currently working as a front-end developer
+I'm a software developer from Podgorica, Montenegro. Currently working as a front-end developer at Logate d.o.o. 
 
 ## Technologies
 
