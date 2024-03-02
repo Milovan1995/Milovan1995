@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a software developer from Podgorica, Montenegro. 
+I'm a software developer living in Podgorica, Montenegro. 
 
 ## Technologies
 
