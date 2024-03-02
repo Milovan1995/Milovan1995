@@ -1,5 +1,6 @@
-![csStudent](https://github.com/Milovan1995/Milovan1995/assets/125225532/3a73ecf9-b85e-4547-a593-f8fd3c56f1ae)
-# Welcome 
+![E4B576E3-9BCB-4C43-BDAC-E5930BBC0569](https://github.com/Milovan1995/Milovan1995/assets/125225532/49251e7e-7ea6-49e4-b705-22ac3824b40f)
+
+# Welcome!
 
 Meeting new 'tech' people should always be a plus, right? In my free time, I'm usually up for having a good chat, wether it's about tech news, games, sports, anime, music, some other random stuff. I decided to switch from being a mechanical engineer to programming, as that was always  kind of a 'secret love' for me. Anyways, feel free to contact me.
 
