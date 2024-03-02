@@ -4,7 +4,7 @@
 # Welcome!
 
 ### Meeting new 'tech' people should always be a plus, right?
-I am a web developer from Podgorica, Montenegro - currently working as a frontend developer. At one point in my life, I decided to switch from being a mechanical engineer to programming, my 'secret love'. And it was the best thing i ever did, honestly. I love talking about tech news, games, anime, sports, all kinds of random stuff. I also enjoy meeting new people, so feel free to contact me.
+I am a web developer from Podgorica, Montenegro - currently working as a frontend developer. At one point in my life, I decided to switch from being a mechanical engineer to programming, my 'secret love'. And it was the best thing i ever did, honestly. I love talking about tech news, games, sports, books, tv shows, anime,  all kinds of random stuff... I also enjoy meeting new people, so feel free to contact me.
 
 ### I even love all the 'struggling' moments programming brings, is that weird?
 
