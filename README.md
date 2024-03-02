@@ -1,6 +1,6 @@
-# Hello!
+# Welcome 
 
-I'm a software developer living in Podgorica, Montenegro. 
+Meeting new 'tech' people should always be a plus, right? In my free time, I'm usually up for having a good chat, wether it's about tech news, games, sports, anime, music, some other random stuff. I decided to switch from being a mechanical engineer to programming, as that was always  kind of a 'secret love' for me. Anyways, feel free to contact me.
 
 ## Technologies
 
@@ -22,8 +22,6 @@ I'm a software developer living in Podgorica, Montenegro.
   
 
 ## Connect with Me
-
-Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milovan-antic/)
 
