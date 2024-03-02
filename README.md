@@ -1,3 +1,4 @@
+![csStudent](https://github.com/Milovan1995/Milovan1995/assets/125225532/3a73ecf9-b85e-4547-a593-f8fd3c56f1ae)
 # Welcome 
 
 Meeting new 'tech' people should always be a plus, right? In my free time, I'm usually up for having a good chat, wether it's about tech news, games, sports, anime, music, some other random stuff. I decided to switch from being a mechanical engineer to programming, as that was always  kind of a 'secret love' for me. Anyways, feel free to contact me.
@@ -5,6 +6,7 @@ Meeting new 'tech' people should always be a plus, right? In my free time, I'm u
 ## Technologies
 
  🌐 Proficient in:
+
 
 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.example.com)
