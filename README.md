@@ -4,7 +4,7 @@
 # Welcome!
 
 ### Meeting new 'tech' people should always be a plus, right? 😅
-I am a software developer. At one point in my life, I decided to switch from being a mechanical engineer to programming, my 'secret love'. And it was the best thing i ever did, honestly. I love talking about all kinds of random stuff and I enjoy meeting new people.
+I am a software developer from Montenegro. At one point in my life, I decided to switch from being a mechanical engineer to programming, my 'secret love'. And it was the best thing i ever did, honestly. I love talking about all kinds of random stuff and I enjoy meeting new people.
 
 ### I actually enjoy all the 'struggling' moments programming brings, is that weird?
 
