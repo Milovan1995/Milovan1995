@@ -1,15 +1,15 @@
 
 ![newBanner](https://github.com/Milovan1995/Milovan1995/assets/125225532/6265ee75-fd22-40fc-9b63-83396dd4763c)
 
-# Welcome!
+# Milovan Antic
 
-### Meeting new 'tech' people should always be a plus, right? 😅
-I am a software developer from Montenegro. At one point in my life, I decided to switch from being a mechanical engineer to programming, my 'secret love'. And it was the best thing i ever did, honestly. I love talking about all kinds of random stuff and I enjoy meeting new people.
+Software Engineer from Montenegro.
 
-### I actually enjoy all the 'struggling' moments programming brings, is that weird?
+Currently working at Logate, building web applications with Angular and TypeScript.
 
-![problem](https://github.com/Milovan1995/Milovan1995/assets/125225532/f635681a-fee7-4f63-a785-3d8e1591a414)
+Former mechanical engineer who switched careers to software development in 2023.
 
+Here you'll find a mix of learning projects, experiments and applications I've built while improving my skills and exploring different technologies.
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milovan-antic/)
